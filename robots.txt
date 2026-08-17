@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sap9nk.koi888.cfd/sitemap.xml
